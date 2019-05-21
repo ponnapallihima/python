@@ -1,0 +1,37 @@
+    1  git --version
+    2  git --help
+    3  pwd
+    4  ls
+    5  cd Desktop
+    6  pwd
+    7  cd problemsolvingprogramming
+    8  cd problemsolvingprogramming
+    9  ls
+   10  pwd
+   11  ls
+   12  cd desktop
+   13  mkdir
+   14  mv pro
+   15  mv pro
+   16  mkdir Git
+   17  ls
+   18  pwd
+   19  cd git
+   20  pwd
+   21  git--version
+   22  git --version
+   23  git config --list
+   24  git config user.name
+   25  git config --global user.name"ponnapallihima"
+   26  git config --global user.name"ponnapllihima"
+   27  git cofig user.name
+   28  git config user.name
+   29  git config --global user.name'ponnapallihima'
+   30  git config user.name
+   31  git cofig --global user.name "ponnapllihima"
+   32  git config --global user.name "ponnapllihima"
+   33  git config user.name
+   34  git config --global user.email himamahesh132@gmial.com
+   35  git config user.email
+   36  history 100
+   37  history 100 > git-commands.txt
